@@ -1,0 +1,9 @@
+﻿{
+  "Id": "Derial_Speed",
+  "DisplayName": "Derial Speed",
+  "Author": "Gamearoo",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.14.0",
+  "AssemblyName": "Derial_Speed.dll",
+  "EntryMethod": "Derial_Speed.Main.Load"
+}

@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+*vs
+bin
+
+obj
+Properties
+
 # Object files
 *.o
 *.ko
@@ -50,3 +56,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+app.config
+packages.config
+/packages
